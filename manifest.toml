@@ -16,7 +16,8 @@ admindoc = "https://deluge.readthedocs.io/en/latest/"
 code = "https://git.deluge-torrent.org/deluge"
 
 [integration]
-yunohost = ">= 11.2"
+yunohost = ">= 11.2.18"
+helpers_version = "2.1"
 architectures = "all"
 multi_instance = false
 ldap = false
