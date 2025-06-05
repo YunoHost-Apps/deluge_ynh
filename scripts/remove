@@ -31,8 +31,6 @@ ynh_config_remove_nginx
 
 ynh_config_remove_logrotate
 
-#REMOVEME? (Apps should not remove their log dir during remove ... this should only happen if --purge is used, and be handled by the core...) ynh_safe_rm "/var/log/$app"
-
 #=================================================
 # END OF SCRIPT
 #=================================================
