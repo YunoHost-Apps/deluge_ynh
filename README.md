@@ -4,14 +4,14 @@ It shall NOT be edited by hand.
 -->
 
 <h1>
-  <img src="https://raw.githubusercontent.com/YunoHost/apps/master/logos/deluge.png" width="32px" alt="Logo of Deluge">
+  <img src="https://raw.githubusercontent.com/YunoHost/apps/main/logos/deluge.png" width="32px" alt="Logo of Deluge">
   Deluge, packaged for YunoHost
 </h1>
 
 Lightweight BitTorrent client
 
 [![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://www.deluge-torrent.org/)
-![Version: 2.0.3~ynh3](https://img.shields.io/badge/Version-2.0.3~ynh3-rgba(0,150,0,1)?style=for-the-badge)
+[![Version: 2.0.3~ynh4](https://img.shields.io/badge/Version-2.0.3~ynh4-rgba(0,150,0,1)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/deluge/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/deluge"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
