@@ -18,7 +18,8 @@ admindoc = "https://deluge.readthedocs.io/en/latest/"
 code = "https://git.deluge-torrent.org/deluge"
 
 [integration]
-yunohost = ">= 11.2"
+yunohost = ">= 12.0.9"
+helpers_version = "2.1"
 architectures = "all"
 multi_instance = false
 
@@ -55,4 +56,4 @@ ram.runtime = "50M"
     main.default = 8112
 
     [resources.apt]
-    packages = "deluge deluged deluge-console deluge-web"
+    packages = "deluge, deluged, deluge-console, deluge-web"
